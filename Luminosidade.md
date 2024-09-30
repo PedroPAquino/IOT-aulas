@@ -6,6 +6,7 @@ luminosidade que transforma a luz ambiente em ondas que acendem ou apagam o led.
 ## Componentes Usados
 
 - 1 Arduíno Uno
+- 1 Protoboard
 - 7 Jumpers m/m
 - 1 led azul de 3.3 v
 - 1 resistor 220 hms
