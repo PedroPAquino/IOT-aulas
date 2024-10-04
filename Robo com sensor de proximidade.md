@@ -15,7 +15,7 @@ ascendendo um led e o robô gira a cabeça num ângulo de 90° para desviar do o
 
 ## Montando o Circuito
 
-![imagem](Robo_com_sensor_de_prozimidade.png)
+![imagem](Robo_com_sensor_de_proximidade.png)
 
 ## Explicação do Código
 
